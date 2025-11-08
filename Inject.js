@@ -99,4 +99,4 @@ function escapeRegExp(string) {
 
 download('https://raw.githubusercontent.com/KC3Kai/kc3-translations/master/data/en/items.json', true, (data) => window.gItems && gItems.forEach((a) => a.name = data[a.name] || a.name))
 download('https://raw.githubusercontent.com/KC3Kai/kc3-translations/master/data/en/ships.json', true, (data) => window.gShips && gShips.forEach((a) => Object.keys(data).sort((a, b) => b.length - a.length).forEach((b) => a.name = a.name.replace(b, data[b]))))
-download('https://raw.githubusercontent.com/Tibowl/KCToolTL/master/Translations.json?v=' + new Date().getTime(), false)
+download('https://raw.githubusercontent.com/chocolatecravinghobo/KCToolTL/master/Translations.json?v=' + new Date().getTime(), false)
