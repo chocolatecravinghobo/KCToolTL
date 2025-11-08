@@ -3,22 +3,38 @@
 
     "ケッコンカッコカリ": "Provisional Marriage",
     "鎮守府秋刀魚祭り": "Naval Base Saury Festival",
-    "鎮守府": "Naval Base",
+    "水着": "Swimsuit",
+    "ハロウィン": "Halloween",
+    "晴れ着": "Haregi",
+    "梅雨": "Rainy Season",
     
     "劇場版 艦隊これくしょん -艦これ-": "KanColle: The Movie",
     "艦これ改": "KanColle Kai",
     "艦隊これくしょん -艦これ-": "Kantai Collection ~KanColle~",
     "艦これアーケード": "KanColle Arcade",
     "艦これ": "KanColle",
-    
+    "鎮守府": "Naval Base",
     
     "アーケード": "Arcade",
-    "Holo": "KanColle",
     "アミューズメントICカード": "Amusement IC Card",
-    "カード": "card",
+    "ホロ": "Holo",
+    "カード": "Card",
+    "フレーム": "Frame",
+    "火": "FP",
+    "オリジナル": "Original",
+    "イラスト": "Illustration",
     
+    "フレッチャー": "Fletcher",
+    "ジョンストン": "Johnston",
+    
+    "税込": "Tax included",
+    "シリーズ": "Series",
     "セット": "set",
+    "イベント限定": "event exclusive",
     "販売中のみ表示": "Hide Sold",
+
+    "仕様": "Specification",
+    "期間限定排出": "Limited time release",
     
     "倉庫に戻る": "Return to home",
     "セーブ": "Share/Save",
